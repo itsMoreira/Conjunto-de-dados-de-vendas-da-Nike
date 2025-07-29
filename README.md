@@ -8,11 +8,11 @@ Este projeto tem como foco a prática de **limpeza de dados e análise explorat�
 
 ## 🛠️ Status do Projeto
 
-🚧 **Em andamento**
+🚧 **Concluído**
 
 - ✅ **Etapa 1: Limpeza de dados** — *Concluída*
-- ⏳ **Etapa 2: Análise Exploratória (EDA)** — *Em breve*
-- ⏳ **Etapa 3: Visualizações com Power BI** — *A ser implementada por partes*
+- ✅ **Etapa 2: Análise Exploratória (EDA)** — *Em breve*
+- ✅ **Etapa 3: Visualizações com Power BI** — *A ser implementada por partes*
 
 ---
 
@@ -52,6 +52,7 @@ Nesta etapa, foram aplicadas as seguintes ações:
 - **Python**: pandas, numpy
 - **Jupyter Notebook**
 - **Power BI** *(a ser usado na etapa de visualização)*
+- ** Figma**
 
 
 
