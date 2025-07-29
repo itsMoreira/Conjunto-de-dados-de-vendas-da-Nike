@@ -56,7 +56,7 @@ Nesta etapa, foram aplicadas as seguintes ações:
 
 ## 🖼️ Imagem do Dashboard
 
-![Dashboard de Análise de Eficiência](dashboard_nike.png)
+![Nike Sales Dataset](dashboard_nike.png)
 
 ---
 
